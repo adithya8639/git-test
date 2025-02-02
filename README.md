@@ -1,2 +1,3 @@
-# git-test
-testing of git
+Adithya test project
+
+THis repo is only for testing git and git commands
